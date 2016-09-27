@@ -6,8 +6,12 @@ feature 3
 
 test revert
 
+<<<<<<< HEAD
 1st
 
 2nd
 
 3rd
+=======
+1st
+>>>>>>> parent of d202cbd... 2nd
